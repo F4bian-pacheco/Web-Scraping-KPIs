@@ -51,3 +51,744 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668196429400	geckodriver	INFO	Listening on 127.0.0.1:40691
+1668196429902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60777" "-no-remote" "-profile" "/tmp/rust_mozprofileXJVKbN"
+Gtk-Message: 16:53:50.143: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668196431229	Marionette	INFO	Marionette enabled
+1668196431236	Marionette	INFO	Listening on port 37179
+WebDriver BiDi listening on ws://127.0.0.1:60777
+1668196431426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXJVKbN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60777/devtools/browser/60ac001c-4046-4cba-b309-367ae4f9d0bd
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668196460526	Marionette	INFO	Stopped listening on port 37179
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668196863331	geckodriver	INFO	Listening on 127.0.0.1:36417
+1668196863339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33121" "-no-remote" "-profile" "/tmp/rust_mozprofileTwt856"
+Gtk-Message: 17:01:03.597: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668196864986	Marionette	INFO	Marionette enabled
+1668196864993	Marionette	INFO	Listening on port 36013
+WebDriver BiDi listening on ws://127.0.0.1:33121
+1668196865246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTwt856/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33121/devtools/browser/74bdb2cc-3ccd-49bc-9935-b1eb18dfb546
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668197457435	geckodriver	INFO	Listening on 127.0.0.1:52601
+1668197457442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50375" "-no-remote" "-profile" "/tmp/rust_mozprofilelWlaKX"
+Gtk-Message: 17:10:57.750: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668197459331	Marionette	INFO	Marionette enabled
+1668197459341	Marionette	INFO	Listening on port 45645
+WebDriver BiDi listening on ws://127.0.0.1:50375
+1668197459606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelWlaKX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50375/devtools/browser/eea989d9-ab36-41ca-b567-b7667778b2f5
+1668197464791	Marionette	INFO	Stopped listening on port 36013
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668197490610	Marionette	INFO	Stopped listening on port 45645
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668197493001	geckodriver	INFO	Listening on 127.0.0.1:45393
+1668197493008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59893" "-no-remote" "-profile" "/tmp/rust_mozprofileKOi35M"
+Gtk-Message: 17:11:33.247: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668197494531	Marionette	INFO	Marionette enabled
+1668197494538	Marionette	INFO	Listening on port 41973
+WebDriver BiDi listening on ws://127.0.0.1:59893
+1668197494768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKOi35M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59893/devtools/browser/a1d1b442-bd05-485c-962d-a24bfc6cc671
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4232 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668198071576	Marionette	INFO	Stopped listening on port 41973
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668198073949	geckodriver	INFO	Listening on 127.0.0.1:56577
+1668198073955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46461" "-no-remote" "-profile" "/tmp/rust_mozprofile4UrFZa"
+Gtk-Message: 17:21:14.189: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668198075551	Marionette	INFO	Marionette enabled
+1668198075558	Marionette	INFO	Listening on port 37109
+WebDriver BiDi listening on ws://127.0.0.1:46461
+1668198075780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4UrFZa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46461/devtools/browser/ab061f77-19ab-4f01-8ff3-7b291cacfffb
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2610 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1589 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668198120659	Marionette	INFO	Stopped listening on port 37109
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668198122915	geckodriver	INFO	Listening on 127.0.0.1:55625
+1668198122925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53941" "-no-remote" "-profile" "/tmp/rust_mozprofileF28XsZ"
+Gtk-Message: 17:22:03.162: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668198124424	Marionette	INFO	Marionette enabled
+1668198124434	Marionette	INFO	Listening on port 34485
+WebDriver BiDi listening on ws://127.0.0.1:53941
+1668198124657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF28XsZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53941/devtools/browser/bc54e73a-bf3a-41f2-a70d-00fab3b5a19b
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2785 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668198466543	Marionette	INFO	Stopped listening on port 34485
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668198468625	geckodriver	INFO	Listening on 127.0.0.1:58053
+1668198468633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38389" "-no-remote" "-profile" "/tmp/rust_mozprofiledbQGEr"
+Gtk-Message: 17:27:48.856: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668198469961	Marionette	INFO	Marionette enabled
+1668198469967	Marionette	INFO	Listening on port 37471
+WebDriver BiDi listening on ws://127.0.0.1:38389
+1668198470174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledbQGEr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38389/devtools/browser/0032cb75-c6bc-4ab4-b331-92a943440ae0
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1507 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668198706077	Marionette	INFO	Stopped listening on port 37471
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668198708083	geckodriver	INFO	Listening on 127.0.0.1:36021
+1668198708091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58805" "-no-remote" "-profile" "/tmp/rust_mozprofilebVAKFp"
+Gtk-Message: 17:31:48.336: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668198709582	Marionette	INFO	Marionette enabled
+1668198709589	Marionette	INFO	Listening on port 41067
+WebDriver BiDi listening on ws://127.0.0.1:58805
+1668198709811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebVAKFp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58805/devtools/browser/7acc9134-aebb-4b74-b214-adf3a2d851f0
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3502 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6033 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668198807413	Marionette	INFO	Stopped listening on port 41067
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668198809689	geckodriver	INFO	Listening on 127.0.0.1:47577
+1668198809699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50301" "-no-remote" "-profile" "/tmp/rust_mozprofilezvKmBS"
+Gtk-Message: 17:33:30.036: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668198811298	Marionette	INFO	Marionette enabled
+1668198811305	Marionette	INFO	Listening on port 38247
+WebDriver BiDi listening on ws://127.0.0.1:50301
+1668198811526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezvKmBS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50301/devtools/browser/086cb53b-a652-4119-ba9c-a5afb14f0d41
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668198901868	Marionette	INFO	Stopped listening on port 38247
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668198943031	geckodriver	INFO	Listening on 127.0.0.1:46117
+1668198943038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39567" "-no-remote" "-profile" "/tmp/rust_mozprofileIHAKdI"
+Gtk-Message: 17:35:43.255: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668198944362	Marionette	INFO	Marionette enabled
+1668198944368	Marionette	INFO	Listening on port 40487
+WebDriver BiDi listening on ws://127.0.0.1:39567
+1668198944561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIHAKdI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39567/devtools/browser/fcc0e656-d44b-487b-b5a2-045547741dcc
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6478 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668199174829	Marionette	INFO	Stopped listening on port 40487
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668199177235	geckodriver	INFO	Listening on 127.0.0.1:43081
+1668199177745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45815" "-no-remote" "-profile" "/tmp/rust_mozprofilepVbIgI"
+Gtk-Message: 17:39:38.061: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668199179271	Marionette	INFO	Marionette enabled
+1668199179279	Marionette	INFO	Listening on port 44991
+WebDriver BiDi listening on ws://127.0.0.1:45815
+1668199179489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepVbIgI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45815/devtools/browser/4d19e7a3-985f-4e89-b8d9-4d379569760c
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2592 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668199940951	Marionette	INFO	Stopped listening on port 44991
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668199942819	geckodriver	INFO	Listening on 127.0.0.1:57423
+1668199942830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44151" "-no-remote" "-profile" "/tmp/rust_mozprofilebzVivq"
+Gtk-Message: 17:52:23.078: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668199944341	Marionette	INFO	Marionette enabled
+1668199944353	Marionette	INFO	Listening on port 46535
+WebDriver BiDi listening on ws://127.0.0.1:44151
+1668199944582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebzVivq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44151/devtools/browser/762be0fe-4c1e-490e-bd0c-a8da55459d78
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3282 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200019908	Marionette	INFO	Stopped listening on port 46535
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200022049	geckodriver	INFO	Listening on 127.0.0.1:47981
+1668200022057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35463" "-no-remote" "-profile" "/tmp/rust_mozprofile3msgV7"
+Gtk-Message: 17:53:42.324: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200023784	Marionette	INFO	Marionette enabled
+1668200023790	Marionette	INFO	Listening on port 43731
+WebDriver BiDi listening on ws://127.0.0.1:35463
+1668200024007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3msgV7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35463/devtools/browser/2f71154b-244b-445b-aa39-4da58f3783e4
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7537 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200067171	Marionette	INFO	Stopped listening on port 43731
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200069450	geckodriver	INFO	Listening on 127.0.0.1:43691
+1668200069460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49299" "-no-remote" "-profile" "/tmp/rust_mozprofilesNFR8p"
+Gtk-Message: 17:54:29.698: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200070932	Marionette	INFO	Marionette enabled
+1668200070940	Marionette	INFO	Listening on port 34647
+WebDriver BiDi listening on ws://127.0.0.1:49299
+1668200071165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesNFR8p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49299/devtools/browser/bb7d9051-cc0b-43b6-95df-24a2958e9204
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200175620	Marionette	INFO	Stopped listening on port 34647
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668200177583	geckodriver	INFO	Listening on 127.0.0.1:37601
+1668200177592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34143" "-no-remote" "-profile" "/tmp/rust_mozprofilei3yMfN"
+Gtk-Message: 17:56:17.849: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200179128	Marionette	INFO	Marionette enabled
+1668200179134	Marionette	INFO	Listening on port 43577
+WebDriver BiDi listening on ws://127.0.0.1:34143
+1668200179362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei3yMfN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34143/devtools/browser/77a492a9-510a-4e0b-83b1-17e1d0779fea
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 865 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200298744	Marionette	INFO	Stopped listening on port 43577
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200300875	geckodriver	INFO	Listening on 127.0.0.1:36481
+1668200300882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52259" "-no-remote" "-profile" "/tmp/rust_mozprofileStG74N"
+Gtk-Message: 17:58:21.122: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200302477	Marionette	INFO	Marionette enabled
+1668200302484	Marionette	INFO	Listening on port 42605
+WebDriver BiDi listening on ws://127.0.0.1:52259
+1668200302701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileStG74N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52259/devtools/browser/6c39a6ae-1746-4b4c-9beb-2cda00291bc1
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200351786	Marionette	INFO	Stopped listening on port 42605
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200353814	geckodriver	INFO	Listening on 127.0.0.1:43727
+1668200353822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32933" "-no-remote" "-profile" "/tmp/rust_mozprofileLESNOz"
+Gtk-Message: 17:59:14.056: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200355283	Marionette	INFO	Marionette enabled
+1668200355289	Marionette	INFO	Listening on port 40039
+WebDriver BiDi listening on ws://127.0.0.1:32933
+1668200355504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLESNOz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32933/devtools/browser/a2518053-56c9-41f2-b86b-a16283bd9445
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4396 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200394998	Marionette	INFO	Stopped listening on port 40039
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200396611	geckodriver	INFO	Listening on 127.0.0.1:37429
+1668200396619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59605" "-no-remote" "-profile" "/tmp/rust_mozprofileXROffb"
+Gtk-Message: 17:59:56.862: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200398105	Marionette	INFO	Marionette enabled
+1668200398116	Marionette	INFO	Listening on port 40365
+WebDriver BiDi listening on ws://127.0.0.1:59605
+1668200398340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXROffb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59605/devtools/browser/9bd309c6-1976-4038-877a-334354b8ab61
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5465 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200469662	Marionette	INFO	Stopped listening on port 40365
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668200471433	geckodriver	INFO	Listening on 127.0.0.1:54677
+1668200471442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56749" "-no-remote" "-profile" "/tmp/rust_mozprofilebtQrKT"
+Gtk-Message: 18:01:11.670: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200472901	Marionette	INFO	Marionette enabled
+1668200472910	Marionette	INFO	Listening on port 36211
+WebDriver BiDi listening on ws://127.0.0.1:56749
+1668200473126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebtQrKT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56749/devtools/browser/a32ded17-217a-41a0-bbe5-f8e4723ce0bb
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1664 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200670156	Marionette	INFO	Stopped listening on port 36211
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200672301	geckodriver	INFO	Listening on 127.0.0.1:40469
+1668200672307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51767" "-no-remote" "-profile" "/tmp/rust_mozprofileBC57dM"
+Gtk-Message: 18:04:32.549: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200673797	Marionette	INFO	Marionette enabled
+1668200673804	Marionette	INFO	Listening on port 35685
+WebDriver BiDi listening on ws://127.0.0.1:51767
+1668200674028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBC57dM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51767/devtools/browser/5b8dc500-ad0c-4489-b469-cfb3d1036a8f
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4279 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6245 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1828 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200736129	Marionette	INFO	Stopped listening on port 35685
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668200738027	geckodriver	INFO	Listening on 127.0.0.1:39937
+1668200738034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54699" "-no-remote" "-profile" "/tmp/rust_mozprofile3B7ilC"
+Gtk-Message: 18:05:38.262: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200739546	Marionette	INFO	Marionette enabled
+1668200739552	Marionette	INFO	Listening on port 38475
+WebDriver BiDi listening on ws://127.0.0.1:54699
+1668200739793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3B7ilC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54699/devtools/browser/d0fc93d9-4948-4ddd-80d7-e82e75bc9fdb
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1327 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200802087	Marionette	INFO	Stopped listening on port 38475
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200803674	geckodriver	INFO	Listening on 127.0.0.1:34447
+1668200804179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38223" "-no-remote" "-profile" "/tmp/rust_mozprofileFfd2E2"
+Gtk-Message: 18:06:44.428: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200805702	Marionette	INFO	Marionette enabled
+1668200805708	Marionette	INFO	Listening on port 32969
+WebDriver BiDi listening on ws://127.0.0.1:38223
+1668200805924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFfd2E2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38223/devtools/browser/919b3695-56ff-4db9-8576-d293e98c6eb7
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6923 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 791 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200876841	Marionette	INFO	Stopped listening on port 32969
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200878563	geckodriver	INFO	Listening on 127.0.0.1:58613
+1668200878568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42217" "-no-remote" "-profile" "/tmp/rust_mozprofilegg5ZnQ"
+Gtk-Message: 18:07:58.819: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200880084	Marionette	INFO	Marionette enabled
+1668200880092	Marionette	INFO	Listening on port 44083
+WebDriver BiDi listening on ws://127.0.0.1:42217
+1668200880317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegg5ZnQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42217/devtools/browser/1bb68549-7139-46cc-9d1b-ce304e363eb0
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6768 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668200961252	Marionette	INFO	Stopped listening on port 44083
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668200963125	geckodriver	INFO	Listening on 127.0.0.1:36815
+1668200963135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52115" "-no-remote" "-profile" "/tmp/rust_mozprofilek1mrpd"
+Gtk-Message: 18:09:23.407: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668200964647	Marionette	INFO	Marionette enabled
+1668200964657	Marionette	INFO	Listening on port 35499
+WebDriver BiDi listening on ws://127.0.0.1:52115
+1668200964868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek1mrpd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52115/devtools/browser/dc406540-b689-4dcb-82a9-0041629b7c70
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4574 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 3896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201020518	Marionette	INFO	Stopped listening on port 35499
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668201022263	geckodriver	INFO	Listening on 127.0.0.1:33405
+1668201022270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41765" "-no-remote" "-profile" "/tmp/rust_mozprofileryAStS"
+Gtk-Message: 18:10:22.532: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201023791	Marionette	INFO	Marionette enabled
+1668201023801	Marionette	INFO	Listening on port 42763
+WebDriver BiDi listening on ws://127.0.0.1:41765
+1668201024026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileryAStS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41765/devtools/browser/f4cc7392-76c7-4f87-af8a-837a8785ef1d
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 2336 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201152785	Marionette	INFO	Stopped listening on port 42763
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668201154922	geckodriver	INFO	Listening on 127.0.0.1:33275
+1668201154931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48323" "-no-remote" "-profile" "/tmp/rust_mozprofileOQiPFz"
+Gtk-Message: 18:12:35.232: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201157355	Marionette	INFO	Marionette enabled
+1668201157373	Marionette	INFO	Listening on port 40189
+WebDriver BiDi listening on ws://127.0.0.1:48323
+1668201157774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOQiPFz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48323/devtools/browser/bd4ac46e-bdc7-4d4f-b031-0a98d70f248a
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4153 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201184259	Marionette	INFO	Stopped listening on port 40189
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668201186627	geckodriver	INFO	Listening on 127.0.0.1:45461
+1668201186641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58895" "-no-remote" "-profile" "/tmp/rust_mozprofilep97Md6"
+Gtk-Message: 18:13:06.916: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201188655	Marionette	INFO	Marionette enabled
+1668201188667	Marionette	INFO	Listening on port 43353
+WebDriver BiDi listening on ws://127.0.0.1:58895
+1668201188996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep97Md6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58895/devtools/browser/448ec9f5-d955-46f2-b7db-75cb25ed6378
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 6111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201280219	Marionette	INFO	Stopped listening on port 43353
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668201282411	geckodriver	INFO	Listening on 127.0.0.1:52793
+1668201282418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37933" "-no-remote" "-profile" "/tmp/rust_mozprofilenaigaV"
+Gtk-Message: 18:14:42.729: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201284409	Marionette	INFO	Marionette enabled
+1668201284416	Marionette	INFO	Listening on port 34599
+WebDriver BiDi listening on ws://127.0.0.1:37933
+1668201284717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenaigaV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37933/devtools/browser/e294b9f6-6a2f-433e-bb5f-c70ac58a6112
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5917 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201387496	Marionette	INFO	Stopped listening on port 34599
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668201389537	geckodriver	INFO	Listening on 127.0.0.1:36907
+1668201389543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45809" "-no-remote" "-profile" "/tmp/rust_mozprofileAmiNHP"
+Gtk-Message: 18:16:29.781: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201390911	Marionette	INFO	Marionette enabled
+1668201390918	Marionette	INFO	Listening on port 44851
+WebDriver BiDi listening on ws://127.0.0.1:45809
+1668201391121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAmiNHP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45809/devtools/browser/b22a46cd-02a1-4a59-ab44-528304ab685e
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 1266 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201550499	Marionette	INFO	Stopped listening on port 44851
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668201552425	geckodriver	INFO	Listening on 127.0.0.1:48581
+1668201552433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46131" "-no-remote" "-profile" "/tmp/rust_mozprofileIysdd7"
+Gtk-Message: 18:19:12.857: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201554597	Marionette	INFO	Marionette enabled
+1668201554609	Marionette	INFO	Listening on port 42615
+WebDriver BiDi listening on ws://127.0.0.1:46131
+1668201554871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIysdd7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46131/devtools/browser/d230c077-3a17-4780-a3df-1aafd4a6bd2a
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 4303 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668201646187	Marionette	INFO	Stopped listening on port 42615
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1668201648217	geckodriver	INFO	Listening on 127.0.0.1:47221
+1668201648226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41005" "-no-remote" "-profile" "/tmp/rust_mozprofilel51S2J"
+Gtk-Message: 18:20:48.499: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668201650061	Marionette	INFO	Marionette enabled
+1668201650071	Marionette	INFO	Listening on port 34237
+WebDriver BiDi listening on ws://127.0.0.1:41005
+1668201650307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel51S2J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41005/devtools/browser/3b4a41b8-c4cd-4d3b-bb40-95e43cbc174f
+JavaScript error: https://resource.csnstatic.com/retail/sitenav/membership-assets-acf69784c94a37831af9.js, line 1: TypeError: a is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7006 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 5009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
