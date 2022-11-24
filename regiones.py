@@ -11,7 +11,7 @@ service = Service('/usr/bin/geckodriver')
 
 webdriver = webdriver.Firefox(service=service)
 
-df = pd.read_csv("modelos_b1.csv")
+df = pd.read_csv("modelos_a1.csv")
 df_regiones = pd.read_csv("regiones.csv")
 # marcas = df["marcas"].tolist()
 # modelos = df["modelos"].tolist()
@@ -20,8 +20,6 @@ regiones = df_regiones["Regiones"].tolist()
 # from df to tuple
 df = df.to_records(index=False).tolist()
 
-data_dict = {"marcas": [], "modelos": [], "regiones": [],
-             "precios": [], "año": [], "kilometraje": [], "combustible": []}
 
 for marca, modelo in df:
     data_modelo = modelo.lower().replace(" ", "-")
@@ -29,7 +27,7 @@ for marca, modelo in df:
         url = 'https://www.chileautos.cl/vehiculos/autos-veh%C3%ADculo/usado-tipo/' + \
             marca.lower()+'/'+data_modelo+'/'+region.lower()+'/'
         webdriver.get(url)
-        webdriver.minimize_window()
+        webdriver.maximize_window()
         webdriver.implicitly_wait(5)
 
         # anuncio = webdriver.element_to_be_clickable(
@@ -51,7 +49,7 @@ for marca, modelo in df:
             url_2 = 'https://www.chileautos.cl/vehiculos/autos-veh%C3%ADculo/usado-tipo/' + \
                 marca.lower()+'/'+data_modelo+'/'+region.lower()+'/?offset='+str(12*i)
             webdriver.get(url_2)
-            webdriver.minimize_window()
+            webdriver.maximize_window()
             webdriver.implicitly_wait(5)
             lista_publicaciones = webdriver.find_elements(
                 By.CLASS_NAME, "listing-item")
@@ -77,6 +75,8 @@ for marca, modelo in df:
                 print(j, marca, modelo, region, anio,
                       precio, kilometraje, combustible)
                 j += 1
+                data_dict = {"marcas": [], "modelos": [], "regiones": [],
+                             "precios": [], "año": [], "kilometraje": [], "combustible": []}
                 data_dict["marcas"].append(marca)
                 data_dict["modelos"].append(modelo)
                 data_dict["regiones"].append(region)
@@ -84,11 +84,11 @@ for marca, modelo in df:
                 data_dict["año"].append(anio)
                 data_dict["kilometraje"].append(kilometraje)
                 data_dict["combustible"].append(combustible)
+                df_data = pd.DataFrame(data_dict)
+                df_data.to_csv("data_a1.csv", mode="a",
+                               index=False, header=False)
 
-df_data = pd.DataFrame(data_dict)
 # print(df_data.head())
-df_data.to_csv("data_b1.csv", index=False)
-
 strftime("%Y-%m-%d %H:%M:%S", gmtime())
 # titulo = webdriver.find_element(By.XPATH, "/html/body/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/div/div[1]/div[2]/div[1]/div[1]/h3/a")
 # print(titulo.text)
